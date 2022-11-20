@@ -2,8 +2,8 @@ Gp2 Developability Modeling, DevRep2, Lead Authors: Alexander Golinski and Zacha
 
 Contact Information schm3963@umn.edu
 
-Hackel Lab University of Minnesota
-Martiniani Lab New York University
+Hackel Lab,  University of Minnesota
+Martiniani Lab,  New York University
 
 This project contains Python3 scripts used to predict the yield of Gp2 paratope variants utilizing high-throughput developability assays via transfer learning. 
 
