@@ -1,6 +1,6 @@
-Gp2 Developability Modeling, DevRep2, Lead Author: Alexander Golinski
+Gp2 Developability Modeling, DevRep2, Lead Authors: Alexander Golinski and Zachary Schmitz
 
-Contact Information golin010@umn.edu
+Contact Information schm3963@umn.edu
 
 Hackel Lab University of Minnesota
 Martiniani Lab New York University
